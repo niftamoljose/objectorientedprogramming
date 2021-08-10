@@ -41,7 +41,7 @@ class Customer_Bank{
 public static void main(String args[])
 {
 Bank b =new Bank();
-b.details(123456,"Nisha","savings",2000);
+b.details(123456,"anu","savings",2000);
 b.show();
 b.deposit(40000);
 b.checkbalance();
